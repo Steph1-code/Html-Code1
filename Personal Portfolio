@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<meta charset="UTF-8">
 <head>
     <title>Stephanie Sagbe-Portfolio</title>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -7,7 +8,7 @@
 
 <body>
     <header>
-        <embed src="https://www.linkedin.com/in/stephanie-sagbe-02ab51195/overlay/photo/">
+        <p>&#128105; &#127999; &#8205; &#128187;</p>
         <h1>Stephanie Sagbe</h1>
         <p>Junior Developer | Tech Enthusiast</p>
     </header>
